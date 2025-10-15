@@ -1,2 +1,4 @@
 Cena 1: O professor Girafales (quilômetro parado, professor linguiça) chega na vila pra dar aula.
 Cena 1: O professor Girafales foi dar aula para o Kiko
+Cena 1: O professor Girafales trouxe flores para a Dona Florinda 
+
